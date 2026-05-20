@@ -35,7 +35,8 @@ Launch VirtualBox from the desktop or start menu.
 The VirtualBox Manager should open, showing options to create and manage virtual machines.
 ### Output:
 
-<img width="1481" height="782" alt="image" src="https://github.com/user-attachments/assets/e99d1deb-f74c-40bb-bfec-fcb0fc7defa7" />
+<img width="1477" height="803" alt="image" src="https://github.com/user-attachments/assets/15ad544e-4a17-4c8b-9a8e-904b24845327" />
+
 
 
 ### Result:
