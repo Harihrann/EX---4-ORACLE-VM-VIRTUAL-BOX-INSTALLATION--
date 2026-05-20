@@ -35,7 +35,8 @@ Launch VirtualBox from the desktop or start menu.
 The VirtualBox Manager should open, showing options to create and manage virtual machines.
 ### Output:
 
-![Screenshot 2025-04-29 135830](https://github.com/user-attachments/assets/cda843e7-46d2-4c98-8cc4-86a3ebfcac4e)
+<img width="1481" height="782" alt="image" src="https://github.com/user-attachments/assets/e99d1deb-f74c-40bb-bfec-fcb0fc7defa7" />
+
 
 ### Result:
 Oracle VM VirtualBox has been successfully installed on the system, and the user can now create and run virtual machines using different operating systems.
